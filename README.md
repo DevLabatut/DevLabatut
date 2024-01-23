@@ -3,26 +3,6 @@
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/DevLabatut/DevLabatut/assets/134607946/63711265-0b97-49eb-aac0-11e967f3461d" alt="Html">
-</p>
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="" alt="Css">
-</p>
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="" alt="JavaScript">
-</p>
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="" alt="TypeScript ">
-</p>
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="" alt="React">
-</p>
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="" alt="Figma">
+  <img src="https://github.com/DevLabatut/DevLabatut/assets/134607946/7758c5b5-7451-4e34-9ec4-f03e9fefb102">
 </p>
 
