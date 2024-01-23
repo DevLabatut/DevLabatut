@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://github.com/DevLabatut/README.md/assets/134607946/346d9ca8-bf1a-40a6-9d75-01c86f2f7717" alt="Lucas Labatut">
+  <img src="https://github.com/DevLabatut/DevLabatut/assets/134607946/a04c9313-e353-445a-8221-1ca2558df9e5" alt="Lucas Labatut">
 </p>
+
